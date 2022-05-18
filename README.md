@@ -1,7 +1,7 @@
 ### Ola eu sou o Mattheus Mazzillio  👋
 
 - 🔭 I’m currently working on Front End
-- 🚀 Skills:**HTML,CSS,JAVASRCIPT(NODE),REACT,C++,C,MYSQL**
+- 🚀 Skills:**HTML,CSS,JAVASCRIPT(NODE),REACT,C++,C,MYSQL**
 - 🌱 I’m currently learning **TYPESCRIPT** 
 
 <div align="center">
