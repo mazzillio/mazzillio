@@ -1,8 +1,8 @@
 ### Ola eu sou o Mattheus Mazzillio  👋
 
-- 🔭 I’m currently working on Front End
-- 🚀 Skills:**HTML,CSS,JAVASCRIPT(NODE),REACT,C++,C,MYSQL**
-- 🌱 I’m currently learning **TYPESCRIPT** 
+- 🔭 Desenvolvedor full stack web com a STACK REACT NODE
+- 🚀 Skills:**NODE, TYPESCRIPT, REACT,JAVASCRIPT,HTML,CSS,C++,C,MYSQL, POSTGRESQL, MONGODB**
+- 🌱 Atualmente estudando sobre **CLEAN CODE E DOCKER**. 
 
 <div align="center">
   <a href="https://github.com/mazzillio">
